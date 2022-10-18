@@ -2,8 +2,4 @@
 
 Rain reservoir calculator example, created using Angular.
 
-![](../images/limit.png)
-
-![](../images/gettingFull.png)
-
-![](../images/full.png)
+![reservoir](../images/limit.png)
